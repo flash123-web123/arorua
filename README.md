@@ -1,2 +1,4 @@
 # arorua
-aorua
+arorua team 
+
+ownered by flash
